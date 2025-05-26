@@ -103,5 +103,5 @@ A interface será aberta automaticamente no navegador:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui] 🚀  
+Desenvolvido por buiuz 🚀  
 Colabore, dê sugestões ou envie melhorias! 😊
