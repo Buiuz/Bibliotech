@@ -192,3 +192,5 @@ elif pagina == "Relatórios":
             if 'usuario' in df:
                 st.subheader("👤 Empréstimos por Usuário")
                 st.plotly_chart(px.histogram(df, x="usuario", title="Empréstimos por Usuário"), use_container_width=True)
+
+# bjus
